@@ -91,15 +91,22 @@ This project focuses on learning the basics of becoming a data engineer, coverin
 
 ![workshop](https://github.com/PhattK/Road-to-Data-Engineer-Project/blob/main/Pics/R2DE_workshop_diagram.png)
 
+
 -   Workshop 1: Data Collection with Python (Google Colab), Pandas, REST API
+
 ![example](https://github.com/PhattK/Road-to-Data-Engineer-Project/blob/main/Pics/example_data.png)
+
 -   Workshop 2: Data Wrangling, Data Cleansing with Apache Spark (Colab and PySpark)
 -   Workshop 3: Data Storage with Google Cloud Storage
 -   Workshop 4: Automated Data Pipeline with Airflow
+
 ![data_pipeline](https://github.com/PhattK/Road-to-Data-Engineer-Project/blob/main/Pics/data_pipeline.png)
+
 -   Workshop 5: Building Data Warehouse with BigQuery (feeding data from AirFlow)
 -   Workshop 6: Building dashboard with Google Data Studio (Data from BigQuery)
+
 ![dashboard](https://github.com/PhattK/Road-to-Data-Engineer-Project/blob/main/Pics/dashboard.png)
+
 ## Certificate
 
 ![certificate](https://github.com/PhattK/Road-to-Data-Engineer-Project/blob/main/Pics/Phattharakon_Certificate.png)
