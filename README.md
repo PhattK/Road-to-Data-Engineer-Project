@@ -34,7 +34,7 @@ This project focuses on learning the basics of becoming a data engineer, coverin
 -   Data Cleansing
 -   Data Quality (Data Lineage and Data Dictionary)
 -   EDA (Exploratory Data Analysis) and Data Profiling
--   Handling Anomaly และ missing data
+-   Handling Anomaly and missing data
 -   Distributed Data Processing
 -   Concept of Apache Spark
 -   Workshop 2: Data Wrangling, Data Cleansing with Apache Spark (Colab and PySpark)
